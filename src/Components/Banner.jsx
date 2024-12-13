@@ -9,7 +9,7 @@ const App = () => {
   useEffect(() => {
     // Typing Effect
     const typed = new Typed(".typedText", {
-      strings: ["Zulfiqar Ali", "Software Developer", "YouTuber"],
+      strings: ["Zulfiqar Ali", "Full Stack Developer", "YouTuber"],
       loop: true,
       typeSpeed: 100,
       backSpeed: 80,

@@ -568,6 +568,9 @@ h3 {
     border-radius: 10px;
     padding-inline: 20px;
     outline: none;
+    color: #777;
+    
+    
 }
 
 textarea {
@@ -579,6 +582,7 @@ textarea {
     padding: 15px 20px;
     outline: none;
     resize: none;
+    color: #777;
 }
 
 .form-button>.btn {
