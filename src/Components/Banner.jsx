@@ -106,7 +106,7 @@ const App = () => {
           </p>
         </div>
         <div className="featured-text-btn">
-          <button className="btn3 ">Hire Me</button>
+          <a href="#contact" className="btn3 "  style={{ textDecoration: "none" }} >Hire Me</a>
           <button className="btn3">
             Download CV <i className="uil uil-file-alt"></i>
           </button>

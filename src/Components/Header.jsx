@@ -32,7 +32,7 @@ const Header = () => {
     <div>
       <nav id="header">
         <div className="nav-logo">
-          <p className="nav-name">Zulfiqar.com</p>
+          <p className="nav-name">Zulfiqar</p>
           <span>.</span>
         </div>
         <div className="nav-menu">

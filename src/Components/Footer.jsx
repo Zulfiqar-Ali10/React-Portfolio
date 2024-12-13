@@ -56,7 +56,7 @@ export default function Footer() {
   <div className="bottom-footer">
     <p>
       Copyright ©{" "}
-      <a href="#home" style={{ textDecoration: "none" }}>
+      <a href="#home" style={{ textDecoration: "none", color: "#00B5E9" }}>
         Zulfiqar Ali
       </a>{" "}
       - All rights reserved
