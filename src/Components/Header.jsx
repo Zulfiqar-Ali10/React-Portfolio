@@ -53,9 +53,9 @@ const Header = () => {
         </div>
        <div className="btns">
        <div className="nav-button">
-          <button className="btn1">
+          <a href='' className="btn1" style={{textDecoration:"none"}}>
             Download CV <i className="uil uil-file-alt" />
-          </button>
+          </a>
         </div>
         {/* Button to toggle dark and light mode */}
         <button className="btn1 btn2" onClick={toggleTheme}> <i className={`fa ${isDarkMode ? 'fa-sun' : 'fa-moon'}`} />{isDarkMode ? ' Dark Mode' : ' Light Mode'}</button>

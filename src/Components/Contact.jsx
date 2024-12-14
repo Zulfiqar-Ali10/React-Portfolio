@@ -92,7 +92,7 @@ export default function Contact() {
                                 />
                             </div>
                             <div className="form-button">
-                                <button className="btn3" type="submit" disabled={loading}>
+                                <button className="btn3" type="submit" disabled={loading} style={{cursor: "pointer"}}>
                                     {loading ? "Sending..." : "Send"} <i className="uil uil-message" />
                                 </button>
                             </div>
