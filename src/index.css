@@ -657,14 +657,14 @@ footer {
 
 @media only screen and (max-width: 900px) {
     .nav-button {
-        display: none;
+        /* display: none; */
     }
 
     .nav-menu.responsive {
         left: 0;
     }
 
-    .nav-menu {
+    /* .nav-menu {
         position: fixed;
         top: 80px;
         left: -100%;
@@ -677,7 +677,7 @@ footer {
         min-height: 450px;
         height: 90vh;
         transition: .3s;
-    }
+    } */
 
     .nav_menu_list {
         flex-direction: column;
@@ -771,3 +771,110 @@ footer {
 
 /* //////////////////// responsicve....// */
 
+
+
+
+/* Responsive Styles */
+/* @media screen and (max-width: 768px) {
+    .nav-menu {
+      display: none;
+      position: absolute;
+      top: 60px;
+      right: 0;
+      flex-direction: column;
+      background-color: #fff;
+      width: 100%;
+      padding: 10px 20px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+      z-index: 999;
+    }
+  
+    .nav-menu.menu-open {
+      display: flex;
+    }
+  
+    .nav_menu_list {
+      flex-direction: column;
+      gap: 10px;
+    }
+  
+    .menu-toggle {
+      display: block;
+    }
+  } */
+
+
+  /* ///////////////////////////////////////////////////
+  
+  */
+
+  .menu-toggle {
+    display: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #333;
+  }
+  
+  /* Responsive Styles */
+  @media screen and (max-width: 950px) {
+    .btns{
+        display: flex;
+        align-items: center;
+     
+    }
+    .menu-toggle {
+      display: block;
+    }
+  
+    .nav-menu {
+      display: none;
+      position: absolute;
+      top: 80px;
+      height: 100vh;
+      text-align: center;
+      right: 0;
+      flex-direction: column;
+      background-color:  rgb(228, 240, 250);
+      width: 100%;
+      padding: 10px 20px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+      z-index: 999;
+    }
+  
+    .nav-menu.menu-open {
+      display: flex;
+    }
+  
+    .nav_menu_list {
+      flex-direction: column;
+      gap: 10px;
+    }
+  
+  }
+
+  @media screen and (max-width: 1250px){
+    .nav-link{
+        margin-inline: 0px;
+        /* padding-inline: 0px; */
+    }
+    .btn2{
+        margin-left: 10px;
+    } 
+  }
+  @media screen and (max-width: 1100px){
+    .btn1{
+        padding: 7px 18px;
+    }
+  }
+  @media screen and (max-width: 1060px){
+    .btn1{
+        padding: 5px 18px;
+    }
+  }
+  
+  @media screen and (max-width: 530px){
+    .btn1{
+        padding: 4px 10px;
+    }
+  }
+  
