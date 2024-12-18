@@ -476,6 +476,7 @@ h3 {
     display: flex;
     margin: 30px auto 0px auto;
     cursor: pointer;
+    
 }
 .project-box label {
     font-size: 15px;

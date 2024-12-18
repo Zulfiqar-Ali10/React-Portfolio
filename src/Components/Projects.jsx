@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Projects() {
   return (
@@ -36,9 +37,21 @@ export default function Projects() {
       <label>Using Node Express With MongoDB</label>
       
     </div>
-    <a href="" id='more-projects' className="btn3" style={{textDecoration: "none"}}>
-            More Projects <i className="uil uil-file-alt"></i>
-          </a>
+    {/* <Link to="https://github.com/Zulfiqar-Ali10" id='more-projects' className="btn3" style={{textDecoration: "none"}}>
+            More Projects <i className="uil uil-file-alt" ></i>
+          </Link> */}
+
+
+<Link 
+  to="https://github.com/Zulfiqar-Ali10?tab=repositories" 
+  id='more-projects' 
+  className="btn3" 
+  style={{textDecoration: "none"}} 
+  target="_blank" // Yeh naye tab mein link kholne ke liye hai
+  rel="noopener noreferrer" // Security ke liye
+>
+  More Projects <i className="uil uil-file-alt"></i>
+</Link>
   </div>
  
 </section>
