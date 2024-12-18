@@ -71,7 +71,7 @@ const Header = () => {
             </li>
             <li className="nav_list">
               <a href="#contact" className="nav-link">
-                Contact us
+                Contact
               </a>
             </li>
           </ul>
