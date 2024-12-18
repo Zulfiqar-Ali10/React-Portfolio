@@ -36,7 +36,7 @@ export default function About() {
           <h3>Backend</h3>
         </div>
         <div className="skills-list">
-          <span>PHP</span>
+          <span>Java</span>
           <span>Python</span>
           <span>Next js</span>
           <span>Node js</span>

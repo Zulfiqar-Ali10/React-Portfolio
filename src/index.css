@@ -471,7 +471,12 @@ h3 {
     text-decoration: none;
     color: #000000;
 }
-
+#more-projects{
+    text-align: center;
+    display: flex;
+    margin: 30px auto 0px auto;
+    cursor: pointer;
+}
 .project-box label {
     font-size: 15px;
     color: #777;

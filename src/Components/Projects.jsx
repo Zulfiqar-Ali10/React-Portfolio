@@ -34,9 +34,13 @@ export default function Projects() {
       </a>
       <h3 className='project-h3'>Create Api</h3>
       <label>Using Node Express With MongoDB</label>
+      
     </div>
+    <a href="" id='more-projects' className="btn3" style={{textDecoration: "none"}}>
+            More Projects <i className="uil uil-file-alt"></i>
+          </a>
   </div>
-  
+ 
 </section>
 
     </main>
