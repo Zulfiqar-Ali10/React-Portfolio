@@ -61,7 +61,7 @@ const Header = () => {
             </li>
             <li className="nav_list">
               <a href="#about" className="nav-link">
-                About us
+                About
               </a>
             </li>
             <li className="nav_list">
