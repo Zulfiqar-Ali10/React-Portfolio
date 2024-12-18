@@ -56,7 +56,7 @@ const Header = () => {
           <ul className="nav_menu_list">
             <li className="nav_list">
               <a href="#home" className="nav-link active-link">
-                Home
+                Homes
               </a>
             </li>
             <li className="nav_list">
