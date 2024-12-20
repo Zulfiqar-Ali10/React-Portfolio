@@ -11,10 +11,10 @@ export default function Footer() {
   <div className="middle-footer">
     <ul className="footer-menu">
       <li className="footer_menu_list">
-        <a href="#home">Home</a>
+        <a href="#home">Homes</a>
       </li>
       <li className="footer_menu_list">
-        <a href="#about">About</a>
+        <a href="#about">Abouts</a>
       </li>
       <li className="footer_menu_list">
         <a href="#projects">Projects</a>
