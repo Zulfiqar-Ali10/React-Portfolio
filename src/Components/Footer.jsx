@@ -14,7 +14,7 @@ export default function Footer() {
         <a href="#home">Homes</a>
       </li>
       <li className="footer_menu_list">
-        <a href="#about">Abouts</a>
+        <a href="#about">About</a>
       </li>
       <li className="footer_menu_list">
         <a href="#projects">Projects</a>
