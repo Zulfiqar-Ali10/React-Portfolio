@@ -20,7 +20,7 @@ export default function Footer() {
         <a href="#projects">Projectss</a>
       </li>
       <li className="footer_menu_list">
-        <a href="#contact">Contacts</a>
+        <a href="#contact">Contact</a>
       </li>
     </ul>
   </div>
