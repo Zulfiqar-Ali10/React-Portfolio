@@ -37,7 +37,7 @@ export default function About() {
         </div>
         <div className="skills-list">
           <span>Java</span>
-          <span>Python</span>
+          <span>Apex</span>
           <span>Next js</span>
           <span>Node js</span>
         </div>
