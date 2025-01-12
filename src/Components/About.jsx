@@ -12,7 +12,7 @@ export default function About() {
       <div className="about-info">
         <h3 className='about-h3'>My introduction</h3>
         <p>
-        I am a Full Stack Developer with 1 year of experience in frontend and backend development. Skilled in HTML, CSS, JavaScript, React, Node.js, and databases like MongoDB and MySQL. Currently enhancing my skills in Java, PHP, Python, and C++ to stay updated with the latest technologies..
+        I am a Full Stack software Developer with 1 year of experience in frontend and backend development. Skilled in HTML, CSS, JavaScript, React, Node.js, and databases like MongoDB and MySQL. Currently enhancing my skills in Java, PHP, Python, and C++ to stay updated with the latest technologies..
         </p>
       </div>
     </div>
