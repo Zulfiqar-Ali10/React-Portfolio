@@ -46,6 +46,7 @@ export default function About() {
         <div className="skills-header">
           <h3>Database</h3>
           <h3>Database</h3>
+          <h3>Database</h3>
         </div>
         <div className="skills-list">
           <span>MySQL</span>
