@@ -47,6 +47,7 @@ export default function About() {
           <h3>Database</h3>
           <h3>Database</h3>
           <h3>Database</h3>
+          <h3>Database</h3>
         </div>
         <div className="skills-list">
           <span>MySQL</span>
