@@ -50,7 +50,6 @@ export default function About() {
         <div className="skills-list">
           <span>MySQL</span>
           <span>MongoDB</span>
-          <span>MongoDB</span>
         </div>
       </div>
     </div>
