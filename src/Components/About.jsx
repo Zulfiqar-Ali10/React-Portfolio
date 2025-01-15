@@ -22,7 +22,6 @@ export default function About() {
           <h3>Frontend</h3>
         </div>
         <div className="skills-list">
-          <span>angular</span>
           <span>HTML</span>
           <span>CSS</span>
           <span>Bootstrap</span>
