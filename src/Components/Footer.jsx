@@ -16,6 +16,7 @@ export default function Footer() {
       <li className="footer_menu_list">
         <a href="#about">About</a>
         <a href="#about">About us</a>
+        <a href="#about">menu</a>
       </li>
       <li className="footer_menu_list">
         <a href="#projects">Projects</a>
