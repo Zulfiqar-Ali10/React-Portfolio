@@ -21,9 +21,6 @@ export default function Footer() {
       </li>
       <li className="footer_menu_list">
         <a href="#contact">Contact</a>
-        <a href="#contact">Contact</a>
-        <a href="#contact">Contact</a>
-        <a href="#contact">Contact</a>
       </li>
     </ul>
   </div>
