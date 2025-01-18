@@ -57,7 +57,7 @@ export default function Footer() {
     <p>
       Copyright ©{" "}
       <a href="#home" style={{ textDecoration: "none", color: "#00B5E9" }}>
-        Zulfiqar Ali qutto
+        Zulfiqar Ali
       </a>{" "}
       - All rights reserved
     </p>
