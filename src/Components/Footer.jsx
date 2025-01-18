@@ -59,7 +59,7 @@ export default function Footer() {
       <a href="#home" style={{ textDecoration: "none", color: "#00B5E9" }}>
         Zulfiqar Ali
       </a>{" "}
-      - All rights reserved is the most the way is full stack developer you are the yes i am mern stack
+      - All rights reserved
     </p>
   </div>
 </footer>
