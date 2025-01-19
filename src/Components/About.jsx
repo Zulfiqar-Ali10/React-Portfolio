@@ -44,6 +44,7 @@ export default function About() {
           <span>C</span>
           <span>C++</span>
           <span>Rubg</span>
+          <span>salesforce</span>
         </div>
       </div>
       <div className="skills-box">
