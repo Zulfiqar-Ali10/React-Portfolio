@@ -41,6 +41,7 @@ export default function About() {
           <span>Next js</span>
           <span>Node js</span>
           <span>php</span>
+          <span>C</span>
         </div>
       </div>
       <div className="skills-box">
