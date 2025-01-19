@@ -40,11 +40,6 @@ export default function About() {
           <span>Apex</span>
           <span>Next js</span>
           <span>Node js</span>
-          <span>php</span>
-          <span>C</span>
-          <span>C++</span>
-          <span>Rubg</span>
-          <span>salesforce</span>
         </div>
       </div>
       <div className="skills-box">
