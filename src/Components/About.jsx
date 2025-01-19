@@ -43,6 +43,7 @@ export default function About() {
           <span>php</span>
           <span>C</span>
           <span>C++</span>
+          <span>Rubg</span>
         </div>
       </div>
       <div className="skills-box">
