@@ -27,7 +27,7 @@ export default function Footer() {
   <div className="footer-social-icons">
     <div className="icon">
       <a
-        href="https://www.linkedin.com/in/zulfiqar-ali10/"
+        href="https://www.linkedin.com/in/zulfiqar-ali-3b9b62348/"
         target="_blank"
         style={{ color: "black" }}
       >

@@ -114,7 +114,7 @@ const App = () => {
         <div className="social_icons">
           <div className="icon">
             <a
-              href="https://www.linkedin.com/in/zulfiqar-ali10/"
+              href="https://www.linkedin.com/in/zulfiqar-ali-3b9b62348/"
               target="_blank"
               rel="noreferrer"
               style={{ color: "black" }}
