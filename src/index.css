@@ -822,6 +822,7 @@ footer {
   }
   
   /* Responsive Styles */
+
   @media screen and (max-width: 950px) {
     .btns{
         display: flex;
@@ -878,9 +879,12 @@ footer {
     }
   }
   
-  @media screen and (max-width: 530px){
-    .btn1{
-        padding: 4px 10px;
+  @media screen and (max-width: 500px){
+    .btns{
+      display: none;
+    }
+    .menu-toggle i{
+        font-size: 25px;
     }
   }
   
