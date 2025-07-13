@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import  { useEffect } from "react";
 import Typed from "typed.js";
 import ScrollReveal from "scrollreveal";
 import myPhoto from "../assets/imgs/ali1.png";
